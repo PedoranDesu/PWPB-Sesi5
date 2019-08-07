@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GuestActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NOTHING TO DO HERE"
+        android:gravity="center"
+        android:id="@+id/txtTop"
+        android:layout_centerInParent="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display3"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PRESS THE BACK BUTTON"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/txtTop"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        />
+
+</RelativeLayout>
