@@ -3,7 +3,7 @@ Pembelajaran Android Kelima
 
 Materi : Intent
 
-(Intent yang digunakan disini tidak 'aesthetic',mohon dimaklumi)
+(Intent yang digunakan disini tidak <i>aesthetic</i> ,mohon dimaklumi)
 
 ## ABOUT
 
